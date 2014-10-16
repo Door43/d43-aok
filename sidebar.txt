@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aok:home|Door43 (aok)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aok|d43-aok repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aok/archive/master.zip|d43-aok.zip]]
+
+**Recent Changes**
+{{changes>ns = aok}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aok|Ethnologue data]]
+
